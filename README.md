@@ -13,4 +13,3 @@ Notre CanSat remplira trois missions :
 Dans ce repository, vous trouverez toutes les étapes de conception de ce projet.
 
 
-Les données seront disponibles après la fin du concours (après le 19 juillet).
